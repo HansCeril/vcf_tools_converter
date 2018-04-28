@@ -14,7 +14,7 @@ setup (
     description = "useful VCF tool",
     license='MIT',
     long_description = description_library,
-    url = "https://pr-agite.univ-lille2.fr/hans/project_Stage_Hans.git",
+    url = "https://github.com/HansCeril/vcf_tools_converter",
     author_email = "bioinfo@CHRU-LILLE.FR",
     keywords='genetics genome Human variants Allele insertion computational',
     classifiers = [
